@@ -1,3 +1,4 @@
+package strings;
 //Passing args for writing my name
 public class PassingArgs {
 public static void main(String[] args) {

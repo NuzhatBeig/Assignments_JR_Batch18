@@ -1,3 +1,4 @@
+package statements;
 public class PerformanceTestingIfSwitch {
 		public static void main(String[] args) {
         int age = 19;
